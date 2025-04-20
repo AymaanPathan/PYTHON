@@ -1,0 +1,6 @@
+
+'r'	Read (default mode)
+'w'	Write (overwrites existing)
+'a'	Append (adds to end of file)
+'b'	Binary mode (e.g., 'rb')
+'+'	Read and write (e.g., 'r+')
